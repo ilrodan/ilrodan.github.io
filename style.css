@@ -1,0 +1,27 @@
+@media screen and (max-width: 1200px) {
+	.content-section {margin-top: 10px;}
+}
+
+
+.news_height{
+	height: 300px;
+	width: 200px;
+}
+
+.a{
+	text-decoration: none;
+	font: Gill Sans;
+	color: black;
+	margin-bottom: 15px;
+}
+
+
+
+
+
+.news_text {
+	color: black;
+	font: Gill Sans;
+	font-size: 16px;
+}
+
