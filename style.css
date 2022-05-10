@@ -5,6 +5,8 @@
 
 	.a{font-size: 18px;}
 
+	.asm{font-size: 18px;}
+
 	.h3{font-size: 20px; }	
 
 									}
@@ -17,6 +19,8 @@
 
 	.a{font-size: 20px;}
 
+	.asm{font-size: 17px;}
+
 	.h3{font-size: 30px;}
 									}
 
@@ -28,6 +32,13 @@
 	color: black;
 	margin-bottom: 15px;
 }
+
+.asm{
+	text-decoration: none;
+	font: Gill Sans;
+	color: black;
+	margin-bottom: 15px;
+	}
 
 .divsize{
 	height: 100px;
